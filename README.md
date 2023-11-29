@@ -3,7 +3,6 @@
 <br>
 <br>
 <img src='https://nakrutochka.myacc.store/api/logo.svg' width='200'>
-11111
 
 ## Features
 * view the car repair parts
